@@ -20,7 +20,7 @@ public class CircleCalculator {
         System.out.printf("Area: %.2f%n", area);
         System.out.printf("Circumference: %.2f%n", circumference);
 
-        
+
         input.close();
     }
 }
